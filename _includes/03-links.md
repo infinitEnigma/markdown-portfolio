@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+- [slideshow](https://infinitenigma.github.io/github-slideshow/#/)
+- [blockchain](https://infinitenigma.github.io/github-pages-with-jekyll/)
