@@ -1,3 +1,3 @@
-1. Edukacija
-2. Praksa
-3. Primena
+1. Edukacija :sparkles:
+2. Praksa :+1:
+3. Primena :tada:
